@@ -1,0 +1,16 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
+public class MainMenuUI : MonoBehaviour
+{
+    public void PlayGame()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
+}
