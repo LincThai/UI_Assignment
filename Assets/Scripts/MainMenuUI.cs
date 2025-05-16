@@ -4,7 +4,6 @@ using UnityEngine.UI;
 
 public class MainMenuUI : MonoBehaviour
 {
-    public GameObject settingsPanel;
 
     public void PlayGame()
     {
