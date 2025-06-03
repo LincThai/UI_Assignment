@@ -126,10 +126,10 @@ TextureImporter:
       name: button_sprite_sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 465
-        width: 404
-        height: 155
+        x: 158
+        y: 499
+        width: 88
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,10 +148,10 @@ TextureImporter:
       name: button_sprite_sheet_1
       rect:
         serializedVersion: 2
-        x: 404
-        y: 465
-        width: 404
-        height: 155
+        x: 562
+        y: 499
+        width: 88
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,10 +170,10 @@ TextureImporter:
       name: button_sprite_sheet_2
       rect:
         serializedVersion: 2
-        x: 808
-        y: 465
-        width: 404
-        height: 155
+        x: 972
+        y: 505
+        width: 75
+        height: 75
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,10 +192,10 @@ TextureImporter:
       name: button_sprite_sheet_3
       rect:
         serializedVersion: 2
-        x: 1212
-        y: 465
-        width: 404
-        height: 155
+        x: 1214
+        y: 473
+        width: 400
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,10 +214,10 @@ TextureImporter:
       name: button_sprite_sheet_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 310
-        width: 404
-        height: 155
+        x: 2
+        y: 318
+        width: 400
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +236,10 @@ TextureImporter:
       name: button_sprite_sheet_5
       rect:
         serializedVersion: 2
-        x: 404
-        y: 310
-        width: 404
-        height: 155
+        x: 406
+        y: 318
+        width: 400
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: button_sprite_sheet_6
       rect:
         serializedVersion: 2
-        x: 808
-        y: 310
-        width: 404
-        height: 155
+        x: 858
+        y: 339
+        width: 304
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,10 +280,10 @@ TextureImporter:
       name: button_sprite_sheet_7
       rect:
         serializedVersion: 2
-        x: 1212
-        y: 310
-        width: 404
-        height: 155
+        x: 1262
+        y: 339
+        width: 304
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: button_sprite_sheet_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 155
-        width: 404
-        height: 155
+        x: 50
+        y: 184
+        width: 304
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +324,10 @@ TextureImporter:
       name: button_sprite_sheet_9
       rect:
         serializedVersion: 2
-        x: 404
-        y: 155
-        width: 404
-        height: 155
+        x: 447
+        y: 201
+        width: 318
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +346,10 @@ TextureImporter:
       name: button_sprite_sheet_10
       rect:
         serializedVersion: 2
-        x: 808
-        y: 155
-        width: 404
-        height: 155
+        x: 960
+        y: 183
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: button_sprite_sheet_11
       rect:
         serializedVersion: 2
-        x: 1212
-        y: 155
-        width: 404
-        height: 155
+        x: 1339
+        y: 158
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: button_sprite_sheet_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 404
-        height: 155
+        x: 127
+        y: 2
+        width: 150
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

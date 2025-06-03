@@ -11,10 +11,13 @@ public class SkillScroll : MonoBehaviour
     bool learned;
     bool unlocked;
 
+    public GameObject skillInfoPanel;
+    RectTransform rectTransform;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        rectTransform = skillInfoPanel.GetComponent<RectTransform>();
     }
 
     // Update is called once per frame

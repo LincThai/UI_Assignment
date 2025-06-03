@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba958f6755c131544b1446bcbb86d3a6, type: 3}
   m_Name: SwordSlashSkill
   m_EditorClassIdentifier: 
-  skillName: 
-  skillDescription: 
-  skillCost: 0
+  skillName: Sword Slash
+  skillDescription: A single horizontal slash cutting foes within range
+  skillCost: 1
   unlocked: 0
   learned: 0
-  skillType: 0
+  skillType: 1
