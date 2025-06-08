@@ -15,6 +15,11 @@ public class SettingsMenu : MonoBehaviour
 
     void Start()
     {
+        ResolutionsSetup();
+    }
+
+    public void ResolutionsSetup()
+    {
         // get the resolutions
         resolutions = Screen.resolutions;
         // clear the default options

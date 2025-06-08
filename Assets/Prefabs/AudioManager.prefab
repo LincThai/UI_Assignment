@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7615405026261724833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5695917851511308792}
+  - component: {fileID: 201353751732143157}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5695917851511308792
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7615405026261724833}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &201353751732143157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7615405026261724833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88b51ce8838eafe418cdc3346280c4de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: BGM
+    clip: {fileID: 8300000, guid: f9aaa73834a091f4091f726ab5c23437, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -1536212284504027893, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  - name: OpenCloseScroll
+    clip: {fileID: 8300000, guid: 3ba66b970129d054094c786f42c4c97f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -2438896740229831570, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  - name: OpenCloseSkillTree
+    clip: {fileID: 8300000, guid: 68d8b8bee4add334484e867bd77ba686, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -2438896740229831570, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  - name: SceneTransition
+    clip: {fileID: 8300000, guid: 36b164ae43e2a044ca914ea69582f51a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -2438896740229831570, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  - name: SkillUnlock
+    clip: {fileID: 8300000, guid: 61c4d12e271f61046a5ca0c11b5a0ce5, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -2438896740229831570, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  - name: PickupScroll
+    clip: {fileID: 8300000, guid: 345b288947158df4fa8df8453e70fa99, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -2438896740229831570, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  - name: LearnSkill
+    clip: {fileID: 8300000, guid: 4ec2bff6b3e8141459afb8bc20dac247, type: 3}
+    volume: 1
+    pitch: 2
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -2438896740229831570, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  - name: ButtonClick
+    clip: {fileID: 8300000, guid: 57005d31c0793c345913b58d232fd9ed, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+    mixerGroup: {fileID: -2438896740229831570, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
+  mainMixer: {fileID: 24100000, guid: 68f529eca1d08aa489781e56dd555952, type: 2}
