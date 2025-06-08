@@ -9,10 +9,10 @@ public class Skill : ScriptableObject
     public int skillCost;
     public bool unlocked;
     public bool learned = false;
-    public SkillType skillType;
+    public SkillTypes skillTypes;
 
     [Flags]
-    public enum SkillType
+    public enum SkillTypes
     {
         None = 0,
         sword = 1,

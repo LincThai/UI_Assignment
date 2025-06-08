@@ -126,12 +126,12 @@ TextureImporter:
       name: UIElements_sprite_sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160
-        width: 708
-        height: 80
+        x: 323
+        y: 169
+        width: 62
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -148,12 +148,12 @@ TextureImporter:
       name: UIElements_sprite_sheet_1
       rect:
         serializedVersion: 2
-        x: 708
+        x: 861
         y: 160
-        width: 708
+        width: 402
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -171,11 +171,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1416
-        y: 160
+        y: 165
         width: 708
-        height: 80
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -192,12 +192,12 @@ TextureImporter:
       name: UIElements_sprite_sheet_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 80
-        width: 708
-        height: 80
+        x: 13
+        y: 99
+        width: 682
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -215,11 +215,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 708
-        y: 80
+        y: 86
         width: 708
-        height: 80
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,12 +236,12 @@ TextureImporter:
       name: UIElements_sprite_sheet_5
       rect:
         serializedVersion: 2
-        x: 1416
-        y: 80
-        width: 708
-        height: 80
+        x: 1749
+        y: 89
+        width: 42
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -258,12 +258,12 @@ TextureImporter:
       name: UIElements_sprite_sheet_6
       rect:
         serializedVersion: 2
-        x: 0
+        x: 265
         y: 0
-        width: 708
+        width: 178
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -280,12 +280,12 @@ TextureImporter:
       name: UIElements_sprite_sheet_7
       rect:
         serializedVersion: 2
-        x: 708
+        x: 973
         y: 0
-        width: 708
+        width: 179
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,12 +302,12 @@ TextureImporter:
       name: UIElements_sprite_sheet_8
       rect:
         serializedVersion: 2
-        x: 1416
+        x: 1726
         y: 0
-        width: 708
+        width: 88
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

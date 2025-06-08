@@ -17,7 +17,7 @@ public class PanelAnimate : MonoBehaviour
         canvasGroup = GetComponent<CanvasGroup>();
     }
 
-    public void PanalMoveUp(float time)
+    public void PanelMoveUp(float time)
     {
         canvasGroup.alpha = 0f;
         rectTransform.DOAnchorPos(endPos, time, false).SetEase(Ease.OutBounce);
