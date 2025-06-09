@@ -12,6 +12,8 @@ public class GameUI : MonoBehaviour
         if (Input.GetKey(KeyCode.L))
         {
             gameMenusUI.SetActive(gameMenusUI.activeSelf);
+            // play audio
+            FindObjectOfType<AudioManager>().Play("OpenCloseSkillTree");
         }
     }
 }

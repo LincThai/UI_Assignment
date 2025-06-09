@@ -16,6 +16,7 @@ public class SettingsMenu : MonoBehaviour
     void Start()
     {
         ResolutionsSetup();
+        SetResolution(PlayerPrefs.GetInt("ResolutionIndex"));
     }
 
     public void ResolutionsSetup()
@@ -60,6 +61,7 @@ public class SettingsMenu : MonoBehaviour
         Resolution resolution = resolutions[resoulutionIndex];
         // set the screen resolution
         Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen);
+        PlayerPrefs.SetInt("ResolutionIndex", resoulutionIndex);
     }
 
     // adjust Master audiomixer group by main volume slider

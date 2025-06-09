@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2354922629433691664}
   - component: {fileID: 850728829379957759}
   m_Layer: 5
-  m_Name: Button_FistSkill
+  m_Name: Button_BoxingSkill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
